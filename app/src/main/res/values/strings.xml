@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CryptoWalletApp</string>
+    <string name="title_wallets">Wallets</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_transactions">Transactions</string>
+    <string name="cryptocurrency_type_hint">Cryptocurrency Type</string>
+
+    <string-array name="cryptocurrency_types">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>LTC</item>
+    </string-array>
+</resources>

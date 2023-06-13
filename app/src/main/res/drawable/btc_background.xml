@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="16dp" />
+    <gradient
+        android:id="@+id/bitcoin_background"
+        android:startColor="#FF6200"
+        android:endColor="#FFA873" />
+</shape>
